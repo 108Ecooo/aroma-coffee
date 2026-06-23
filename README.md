@@ -1,10 +1,6 @@
 # Aroma Coffee
 
-Премиальный сайт спешелти-кофейни. Editorial-вёрстка, расширенная 3D-сцена (детализированная кофейная чашка с паром и свечением на Three.js), кастомный курсор, magnetic-кнопки, GSAP + Lenis.
+Спешелти-кофейня. Scroll-driven 3D: зёрна летят в чашку при прокрутке, кофе наливается, камера облетает. Вертикальная навигация, горизонтальный скролл-меню, clip-маски, counter-scroll.
 
 ## Страницы
-- index.html — Главная
-- menu.html — Меню
-- about.html — О нас
-- gallery.html — Галерея
-- contact.html — Контакты
+- index.html, menu.html, about.html, gallery.html, contact.html
